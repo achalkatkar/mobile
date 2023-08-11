@@ -1,3 +1,4 @@
+/* iphone.css*/
 *
 {
     margin: 0;
@@ -22,7 +23,7 @@
     border-radius: 10px;
     margin: 20px;
     display: flex;
-    border: 2px solid rgb(149, 141, 141);
+    border: 1px solid rgb(149, 141, 141);
     box-shadow: 5px 10px #88888;
 }
 
